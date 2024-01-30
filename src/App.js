@@ -10,8 +10,8 @@ function App() {
       <>
         <main>
           <Routes>
-            <Route exact path="/" element={ <Rus /> } />
-            <Route exact path="eng" element={ <Eng /> } />
+            <Route path="/" element={ <Rus /> } />
+            <Route path="eng" element={ <Eng /> } />
           </Routes>
         </main>
       </>

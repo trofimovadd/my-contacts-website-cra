@@ -1,5 +1,6 @@
 import { Link } from "react-router-dom";
 import cvEng from "./assets/cv-en.pdf";
+import "./App.css"
 
 function Eng() {
 

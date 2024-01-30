@@ -1,5 +1,6 @@
 import { Link } from "react-router-dom";
 import cvRus from "./assets/cv-ru.pdf";
+import "./App.css"
 
 function Rus() {
 
