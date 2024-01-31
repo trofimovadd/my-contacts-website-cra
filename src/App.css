@@ -37,27 +37,17 @@ main {
   color: #7e7979;
 }
 
-.subtitle a {
-  color: #7e7979;
-}
-
-.subtitle a:hover {
-  color: #4d4dbd;
-  text-decoration: underline;
-}
-
-.contacts ul {
+ul {
   display: flex;
   gap: 10px;
   list-style-type: none;
 }
 
-.contacts li a {
+a {
   color: #7e7979;
-  text-decoration: none;
 }
 
-.contacts li a:hover {
+a:hover {
   text-decoration: underline;
   color: #4d4dbd;
 }
@@ -84,4 +74,9 @@ main {
   .contacts ul {
     font-size: 14px;
   }
+}
+
+.cv {
+  display: flex;
+  justify-content: center;
 }

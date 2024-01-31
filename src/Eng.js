@@ -21,19 +21,19 @@ function Eng() {
 
                 <div className="contacts">
                     <ul>
-                        <li className="email">
+                        <li>
                             <a target="_blank" href="mailto:trofimova.hk@gmail.com">trofimova.hk@gmail.com</a>
                         </li>
-                        <li className="telegram">
+                        <li>
                             <a target="_blank" href="https://t.me/dartlibre">telegram</a>
                         </li>
-                        <li className="github">
+                        <li>
                             <a target="_blank" href="https://github.com/trofimovadd">GitHub</a>
                         </li>
-                        <li>
-                            <a href={cvEng} target="_blank" rel="noreferrer">CV</a>
-                        </li>
                     </ul>
+                    <div className="cv">
+                        <a href={cvEng} target="_blank" rel="noreferrer">CV</a>
+                    </div>
                 </div>
             </main>
         </>

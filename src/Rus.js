@@ -30,10 +30,10 @@ function Rus() {
                         <li className="github">
                             <a target="_blank" href="https://github.com/trofimovadd">GitHub</a>
                         </li>
-                        <li>
-                            <a href={cvRus} target="_blank" rel="noreferrer">CV</a>
-                        </li>
                     </ul>
+                    <div className="cv">
+                        <a href={cvRus} target="_blank" rel="noreferrer">CV</a>
+                    </div>
                 </div>
             </main>
         </>
