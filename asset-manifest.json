@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/my-contacts-website-cra/static/css/main.75235b67.css",
-    "main.js": "/my-contacts-website-cra/static/js/main.615e8d16.js",
+    "main.css": "/my-contacts-website-cra/static/css/main.8f277d0f.css",
+    "main.js": "/my-contacts-website-cra/static/js/main.61d987ca.js",
     "static/media/cv-ru.pdf": "/my-contacts-website-cra/static/media/cv-ru.340d79a9c9592619a8c8.pdf",
     "static/media/cv-en.pdf": "/my-contacts-website-cra/static/media/cv-en.bce8e9527f80b6a1bfb2.pdf",
     "index.html": "/my-contacts-website-cra/index.html",
-    "main.75235b67.css.map": "/my-contacts-website-cra/static/css/main.75235b67.css.map",
-    "main.615e8d16.js.map": "/my-contacts-website-cra/static/js/main.615e8d16.js.map"
+    "main.8f277d0f.css.map": "/my-contacts-website-cra/static/css/main.8f277d0f.css.map",
+    "main.61d987ca.js.map": "/my-contacts-website-cra/static/js/main.61d987ca.js.map"
   },
   "entrypoints": [
-    "static/css/main.75235b67.css",
-    "static/js/main.615e8d16.js"
+    "static/css/main.8f277d0f.css",
+    "static/js/main.61d987ca.js"
   ]
 }
